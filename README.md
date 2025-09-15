@@ -1,1 +1,5 @@
 # Bangla_Speech_Emotion_Recognition_Using_ML-
+
+
+Accuracy = 81.99%
+
